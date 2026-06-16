@@ -1,44 +1,35 @@
-# 👩‍💻 Mercy Mutua – Data Science & Finance Portfolio
+# Hi there, I'm Mercy Mutua 👋
 
-## 📌 About Me
+## 👩‍💼 About Me
 
-I am a Certified Public Accountant (CPA) transitioning into Data Science and Artificial Intelligence, with a strong interest in financial analytics, predictive modeling, and data-driven decision-making systems.
+...
 
-My background in accounting and finance gives me a strong foundation in:
-- Financial reporting and analysis  
-- Business performance evaluation  
-- Risk assessment and compliance  
-- Data interpretation for decision-making  
+## 🎯 Current Focus
 
-I am now building skills in:
-- Python programming  
-- Data analysis  
-- Machine learning  
-- SQL databases  
-- Financial modeling  
+...
 
----
+## 🛠 Technologies
 
-## 🎯 Career Goal
+...
 
-To become a Data Scientist specializing in financial and business intelligence systems.
+## 🚀 Portfolio Projects
 
----
+| Project | Description | Status |
+|----------|-------------|----------|
+| AI Cash Flow Forecasting System | Predict future cash flow using machine learning | 🔄 In Development |
+| Invoice Anomaly Detection Tool | Detect unusual invoices using analytics | 🔄 Planned |
+| Exchange Rate Prediction Model | Forecast FX trends using data science techniques | 🔄 Planned |
 
-## 🧠 Projects (Coming Soon)
+## 📂 Featured Repository
 
-- Cash Flow Forecasting System  
-- Invoice Fraud Detection Tool  
-- FX Rate Prediction Model  
+- 🌟 mercy-mutua-portfolio — My professional portfolio documenting my transition from CPA to Data Science.
 
----
+## 📚 Academic Interests
 
-## 📈 Journey
+...
 
-This repository documents my transition from CPA to Data Science through practical projects.
+## 🌍 Vision
 
----
+...
 
-## 🚀 Vision
-
-To combine finance and AI to build intelligent financial systems that improve decision-making in businesses.
+⭐ Thank you for visiting my profile.
