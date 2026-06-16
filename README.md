@@ -1,156 +1,135 @@
-# 👩‍💻 Mercy Mutua Portfolio
+# 👩‍💻 Mercy Mutua – Data Science & AI Portfolio
 
-## Welcome
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mercy%20Mutua%20Portfolio&fontAlign=50&fontAlignY=40&color=gradient" />
+</p>
+
+---
+
+## 📊 About This Portfolio
 
 Welcome to my professional portfolio repository.
 
-I am a Certified Public Accountant (CPA) transitioning into Data Science and Artificial Intelligence, with a growing focus on financial analytics, predictive modeling, and business intelligence.
-
-This repository serves as a central hub for my learning journey, projects, and professional development as I bridge the worlds of finance and technology.
+I am a **Certified Public Accountant (CPA)** transitioning into **Data Science, Artificial Intelligence, and Financial Analytics**.  
+This portfolio documents my learning journey, technical growth, and applied projects in data-driven problem solving.
 
 ---
 
 ## 👩‍💼 About Me
 
-My background in accounting and finance has equipped me with strong analytical, problem-solving, and decision-making skills.
+My background in accounting and finance has given me strong analytical and problem-solving skills.
 
-Through Data Science, I aim to transform financial data into actionable insights and develop intelligent systems that support business growth and strategic decision-making.
-
-### Current Areas of Study
-
-- Python Programming
-- Data Analysis
-- SQL & Databases
+I am currently building expertise in:
+- Data Science
 - Machine Learning
-- Financial Analytics
-- Business Intelligence
+- Artificial Intelligence
+- Big Data Analytics
+- Financial Modeling
+
+My goal is to transform financial and business data into intelligent, automated decision-making systems.
 
 ---
 
 ## 🎯 Career Objective
 
-To become a Data Scientist specializing in:
+To become a **Data Scientist specializing in Financial Analytics, Predictive Modeling, and AI-driven business intelligence systems**.
 
-- Financial Analytics
-- Predictive Modeling
-- Machine Learning Applications in Finance
-- Artificial Intelligence for Business Decision-Making
+---
+
+## 🎓 Final Year Computer Science Focus
+
+I am currently completing my final year Computer Science studies, with a focus on advanced topics aligned with Data Science and AI.
+
+### 📚 Current Courses
+
+- CS 4404 – Advanced Networking and Data Security  
+- CS 4406 – Computer Graphics  
+- CS 4407 – Data Mining and Machine Learning  
+- CS 3440 – Big Data  
+- Artificial Intelligence (AI)
+
+### 🔗 Academic Direction
+
+These courses strengthen my foundation in:
+
+- Machine Learning & Data Mining  
+- Big Data Systems  
+- Artificial Intelligence  
+- Secure Data Infrastructure  
+
+---
+
+## 📊 Learning Progress
+
+- Courses Completed: **5 / 40**
+- Current Stage: Beginner → Intermediate Transition
+- Focus: Python, SQL, Machine Learning, Data Analysis
 
 ---
 
 ## 🛠 Technical Skills
 
-### Programming & Data
+### Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- Python
-- SQL
+### Data Science
 - Pandas
 - NumPy
-- Git & GitHub
+- Scikit-learn
+- Data Visualization
+- Machine Learning Basics
 
-### Finance & Accounting
-
+### Finance Background
 - Financial Reporting
 - Budgeting & Forecasting
 - Financial Analysis
 - Risk Assessment
-- Internal Controls
-
-### Data Science (Developing)
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Machine Learning Fundamentals
 
 ---
 
 ## 🚀 Portfolio Roadmap
 
-The following projects are planned or currently under development.
+### 📌 Planned Projects
 
-### 1. AI Cash Flow Forecasting System
-
-**Goal:** Predict future cash flow trends using historical financial data and machine learning.
-
-**Skills Demonstrated:**
-- Python
-- Time-Series Analysis
-- Forecasting
-- Data Visualization
+| Project | Description | Status |
+|--------|-------------|--------|
+| AI Cash Flow Forecasting System | Predict future cash flow using ML models | 🔄 In Progress |
+| Invoice Anomaly Detection Tool | Detect unusual financial transactions | 🔄 Planned |
+| Exchange Rate Prediction Model | Forecast currency movement trends | 🔄 Planned |
+| Financial Analytics Dashboard | Interactive business intelligence dashboard | 🔄 Planned |
 
 ---
 
-### 2. Invoice Anomaly Detection Tool
+## 📈 GitHub Activity
 
-**Goal:** Identify unusual transactions and potential accounting anomalies using data analytics techniques.
-
-**Skills Demonstrated:**
-- Data Cleaning
-- Feature Engineering
-- Anomaly Detection
+- 🔄 Actively building Data Science projects  
+- 📊 Applying Machine Learning to financial problems  
+- 📚 Learning advanced CS and AI concepts  
+- 🚀 Transitioning from CPA → Data Science  
 
 ---
 
-### 3. Exchange Rate Prediction Model
+## 🌍 Vision
 
-**Goal:** Analyze and forecast currency exchange rate movements using historical market data.
-
-**Skills Demonstrated:**
-- Data Collection
-- Statistical Analysis
-- Predictive Modeling
+To combine **finance, accounting, and artificial intelligence** to build intelligent systems that improve decision-making, efficiency, and financial forecasting for businesses globally.
 
 ---
 
-### 4. Financial Analytics Dashboard
+## 📂 Featured Repository
 
-**Goal:** Build an interactive dashboard for monitoring business performance and financial metrics.
-
-**Skills Demonstrated:**
-- Data Visualization
-- Dashboard Design
-- Business Intelligence
+- 🌟 [mercy-mutua-portfolio](https://github.com/mutuamercy/mercy-mutua-portfolio) — My professional portfolio documenting my transition from CPA to Data Science.
 
 ---
 
-## 📚 Academic Interests
+## 📬 Contact
 
-- Data Science
-- Machine Learning
-- Artificial Intelligence
-- Financial Technology (FinTech)
-- Business Analytics
-- Decision Intelligence
+- GitHub: https://github.com/mutuamercy  
+- Location: Nairobi, Kenya  
+- Field: Data Science | Financial Analytics | AI  
 
 ---
 
-## 🌍 Long-Term Vision
-
-To combine expertise in finance, accounting, and data science to develop intelligent solutions that improve decision-making, efficiency, and financial sustainability for organizations.
-
----
-
-## 📈 Progress Tracker
-
-| Area | Status |
-|--------|--------|
-| Python | 🟡 Learning |
-| SQL | 🟡 Learning |
-| Data Analysis | 🟡 Learning |
-| Machine Learning | 🟡 Learning |
-| Portfolio Projects | 🟢 In Progress |
-| Git & GitHub | 🟢 Active |
-
----
-
-## 📬 Connect
-
-### GitHub
-https://github.com/mutuamercy
-
-As projects are completed, they will be linked here and documented with code, analysis, and results.
-
----
-
-⭐ Thank you for visiting my portfolio repository.
+⭐ Thank you for visiting my portfolio.
