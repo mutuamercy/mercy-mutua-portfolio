@@ -59,7 +59,7 @@ Interactive dashboard for business insights.
 ## 📊 Current Progress
 
 - Computer Science Degree: Final Year Stage  
-- Courses Completed: 25 / 40  
+- Courses Completed: 35 / 40  
 - Focus: Machine Learning, Big Data, AI Systems  
 - Goal: Data Science & AI Engineering specialization  
 
